@@ -22,5 +22,3 @@ kubectl create ns grupo3
 vim replicaset.yaml
 ### Aplicamos los cambios 
 kubectl apply -f replicaset.yaml
-### Verificamos que funcione
-kubectl get nodes
