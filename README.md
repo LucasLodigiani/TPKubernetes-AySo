@@ -22,3 +22,5 @@ kubectl create ns grupo3
 vim replicaset.yaml
 ### Aplicamos los cambios 
 kubectl apply -f replicaset.yaml
+### Verificamos los replicasets desplegados
+kubectl get rs
