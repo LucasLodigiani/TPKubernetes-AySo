@@ -1,5 +1,5 @@
 # TPKubernetes-AySo
-Integrantes: Thiago Cingolani 50533 - Lucas Lodigiani 50641 - Azul Cura 50539
+Integrantes: Thiago Cingolani 50533 - Lucas Lodigiani 50641 - Azul Cura 50539 - Sebastián Helguero 50624 - Nicolas Casa 50640
 ## Creamos el archivo html
 vim index.html
 ## Creamos un Dockerfile
